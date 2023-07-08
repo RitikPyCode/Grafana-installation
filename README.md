@@ -1,24 +1,28 @@
 ## AWS EC2 Instance
 
 - Go to AWS Console
+- Select ubuntu Operating system
 - Instances(running)
 - Launch instances
+  
+![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/bbbe3cdd-8c50-4071-9a65-c5df2354998c)
 
-<img width="994" alt=![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/bbbe3cdd-8c50-4071-9a65-c5df2354998c)>
+### Grafana-installation
 
+Step 1: First we need to come on official website of Grafana.
+#### Website link: https://grafana.com/grafana/download?edition=oss
 
-# Grafana-installation
+# Change Enterprise to OSS( open source) 
 
-Step 1: First we need to come on official website of Grafana. 
-## Website link: https://grafana.com/grafana/download?edition=oss
-
-Change Enterprise to OSS( open source)
+#### FIG: 1
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/d248c79c-f9de-48d7-a640-831eccc46084)
 
-For Ubuntu you need to hit the first command on your Linux machine
-Ubuntu(64 Bit):
+### Run the below commands to install Grafana and start their services. Ubuntu(64 Bit):
+
+```
 sudo apt-get install -y adduser libfontconfig1
+```
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/2ab8b80a-5a9a-4d8f-a6fe-85e50e88a892)
 
