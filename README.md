@@ -7,10 +7,11 @@
   
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/bbbe3cdd-8c50-4071-9a65-c5df2354998c)
 
-### Grafana-installation
+### Grafana-installation Step by step:
 
-Step 1: First we need to come on official website of Grafana.
-#### Website link: https://grafana.com/grafana/download?edition=oss
+## Step 1: First we need to go to the Grafana official website.
+
+#### Website link: https://grafana.com/grafana/download/
 
 # Change Enterprise to OSS( open source) 
 
