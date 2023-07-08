@@ -78,7 +78,7 @@ If port is not enable then you need to enable that port: 3000 on your aws securi
 
 # Now save the rule:
 
-## Once you are done with the above steps, then paste the given url with your IP: eg: http://PublicIP:3000/
+##### Once you are done with the above steps, then paste the given url with your IP: eg: http://PublicIP:3000/
 
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/1b04f715-02ec-48ba-9e31-070d105ddda1)
@@ -99,7 +99,7 @@ Password: admin
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/b1c96f95-1c95-43de-aa1e-15b3e7867229)
 
 
-### If you want to change your password then you can change, I am not going to change this: Skip for now.
+###### If you want to change your password then you can change, I am not going to change this: Skip for now.
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/199615cf-aaed-4734-9ecb-b7938d8807dc)
 
@@ -109,5 +109,7 @@ Password: admin
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/3e0cf806-65ae-41e8-8921-977545bde31a)
 
 
-## I hope you like this so follow on LinkedIn for more: https://www.linkedin.com/in/ritikktiwari/
+###### I hope you like this so follow on LinkedIn for more: https://www.linkedin.com/in/ritikktiwari/
+
+![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/dbd3cb71-3d98-47c3-95c2-43c231b2e300)
 
