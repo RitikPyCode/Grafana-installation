@@ -26,22 +26,33 @@ sudo apt-get install -y adduser libfontconfig1
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/2ab8b80a-5a9a-4d8f-a6fe-85e50e88a892)
 
+```
 wget https://dl.grafana.com/oss/release/grafana_10.0.1_amd64.deb
+```
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/a30fd40d-2a56-4ee1-8329-3efa75e9a45b)
 
+```
 sudo dpkg -i grafana_10.0.1_amd64.deb
+```
 
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/70d6a4ef-d2ff-4abc-8509-2f21c306434f)
 
 Please execute to enable the grafana services
 
+```
 sudo /bin/systemctl enable grafana-server
-### You can start grafana-server by executing
- sudo /bin/systemctl start grafana-server
- ### You can start grafana-server status by executing
- sudo /bin/systemctl status grafana-server
-Output:
+```
+### You can start grafana-server by executing below command
+```
+sudo /bin/systemctl start grafana-server
+```
+### You can check the status of grafana-server by executing below command
+```
+sudo /bin/systemctl status grafana-server
+```
+
+##### Output:
  ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/8b5bd0c5-b2be-4c3b-b2d4-be79ddda9772)
 
 ____________
