@@ -8,9 +8,17 @@ Change Enterprise to OSS( open source)
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/d248c79c-f9de-48d7-a640-831eccc46084)
 
 For Ubuntu you need to hit the first command on your Linux machine
+Ubuntu(64 Bit):
+sudo apt-get install -y adduser libfontconfig1
+
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/2ab8b80a-5a9a-4d8f-a6fe-85e50e88a892)
 
+wget https://dl.grafana.com/oss/release/grafana_10.0.1_amd64.deb
+
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/a30fd40d-2a56-4ee1-8329-3efa75e9a45b)
+
+sudo dpkg -i grafana_10.0.1_amd64.deb
+
 ![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/70d6a4ef-d2ff-4abc-8509-2f21c306434f)
 
 Please execute to enable the grafana services
