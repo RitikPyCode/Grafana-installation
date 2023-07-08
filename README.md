@@ -1,3 +1,12 @@
+## AWS EC2 Instance
+
+- Go to AWS Console
+- Instances(running)
+- Launch instances
+
+<img width="994" alt=![image](https://github.com/RitikPyCode/Grafana-installation/assets/69500530/bbbe3cdd-8c50-4071-9a65-c5df2354998c)>
+
+
 # Grafana-installation
 
 Step 1: First we need to come on official website of Grafana. 
