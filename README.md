@@ -124,3 +124,32 @@ Stay curious and keep learning 📖
 
 ## Hope you found this helpful. Do connect/ follow for more such content.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# For Linux
+
+wget https://dl.grafana.com/oss/release/grafana-6.7.3-1.x86_64.rpm
+sudo yum install grafana-6.7.3-1.x86_64.rpm
+
+
